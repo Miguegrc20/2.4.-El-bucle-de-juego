@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: f7e8a3176d8b9bf4f8fb558f31a53781
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 756540388981803909
+    second: sprite prueba_0
+  - first:
+      213: -10004787392524381
+    second: sprite prueba_1
+  - first:
+      213: 2864047956973041816
+    second: sprite prueba_2
+  - first:
+      213: -9054057445232677621
+    second: sprite prueba_3
+  - first:
+      213: 7056175070889658599
+    second: sprite prueba_4
+  - first:
+      213: -4477891376240241450
+    second: sprite prueba_5
+  - first:
+      213: 5273220395252693199
+    second: sprite prueba_6
+  - first:
+      213: -8401742842590013584
+    second: sprite prueba_7
+  - first:
+      213: -7801010940578259315
+    second: sprite prueba_8
+  - first:
+      213: 4955248886108163234
+    second: sprite prueba_9
+  - first:
+      213: 3200498510215540309
+    second: sprite prueba_10
+  - first:
+      213: 7133732043416407096
+    second: sprite prueba_11
+  - first:
+      213: -2205251180351727593
+    second: sprite prueba_12
+  - first:
+      213: -3509476379938736609
+    second: sprite prueba_13
+  - first:
+      213: -4176064367839735501
+    second: sprite prueba_14
+  - first:
+      213: 6429885737529056629
+    second: sprite prueba_15
+  - first:
+      213: 5548485316338130072
+    second: sprite prueba_16
+  - first:
+      213: 5638677601561008818
+    second: sprite prueba_17
+  - first:
+      213: -4758942831126996154
+    second: sprite prueba_18
+  - first:
+      213: -7258633447599041571
+    second: sprite prueba_19
+  - first:
+      213: 793013984556879663
+    second: sprite prueba_20
+  - first:
+      213: 8936479911257481276
+    second: sprite prueba_21
+  - first:
+      213: 7609836907533270863
+    second: sprite prueba_22
+  - first:
+      213: 275431571278559072
+    second: sprite prueba_23
+  - first:
+      213: -3997664956714745391
+    second: sprite prueba_24
+  - first:
+      213: -6275023657088569203
+    second: sprite prueba_25
+  - first:
+      213: -6975720926374668253
+    second: sprite prueba_26
+  - first:
+      213: -2065673771791427513
+    second: sprite prueba_27
+  - first:
+      213: -5213333389678290150
+    second: sprite prueba_28
+  - first:
+      213: 4614187408231497369
+    second: sprite prueba_29
+  - first:
+      213: 7360313434205837057
+    second: sprite prueba_30
+  - first:
+      213: 6784414589487446550
+    second: sprite prueba_31
+  - first:
+      213: -6557517214271145717
+    second: sprite prueba_32
+  - first:
+      213: 1838240327691233679
+    second: sprite prueba_33
+  - first:
+      213: 4447298243633171863
+    second: sprite prueba_34
+  - first:
+      213: -6572590940612795103
+    second: sprite prueba_35
+  - first:
+      213: -8434084490661079088
+    second: sprite prueba_36
+  - first:
+      213: 5773863803984668099
+    second: sprite prueba_37
+  - first:
+      213: -4612117155014884117
+    second: sprite prueba_38
+  - first:
+      213: -213805725668355944
+    second: sprite prueba_39
+  - first:
+      213: 8936565888206149474
+    second: sprite prueba_40
+  - first:
+      213: -1949253565550686845
+    second: sprite prueba_41
+  - first:
+      213: -4570266067670385779
+    second: sprite prueba_42
+  - first:
+      213: 1424828962211384533
+    second: sprite prueba_43
+  - first:
+      213: -1923330312459027965
+    second: sprite prueba_44
+  - first:
+      213: -6793438402712430426
+    second: sprite prueba_45
+  - first:
+      213: 3940948001011065043
+    second: sprite prueba_46
+  - first:
+      213: 1251757512462134630
+    second: sprite prueba_47
+  - first:
+      213: 8911489994351339847
+    second: sprite prueba_48
+  - first:
+      213: 7765731391350372112
+    second: sprite prueba_49
+  - first:
+      213: -4368364298850827171
+    second: sprite prueba_50
+  - first:
+      213: -7561110597476491452
+    second: sprite prueba_51
+  - first:
+      213: -756756345949750941
+    second: sprite prueba_52
+  - first:
+      213: -8128824979175529311
+    second: sprite prueba_53
+  - first:
+      213: -7568689954756664176
+    second: sprite prueba_54
+  - first:
+      213: -106454116765412026
+    second: sprite prueba_55
+  - first:
+      213: -5670873641623905502
+    second: sprite prueba_56
+  - first:
+      213: 1847063621939624431
+    second: sprite prueba_57
+  - first:
+      213: -5954247176362953690
+    second: sprite prueba_58
+  - first:
+      213: 650849455008485159
+    second: sprite prueba_59
+  - first:
+      213: 5457479618650581854
+    second: sprite prueba_60
+  - first:
+      213: 5681493232258822514
+    second: sprite prueba_61
+  - first:
+      213: 4592326619231667870
+    second: sprite prueba_62
+  - first:
+      213: 9084473174051741848
+    second: sprite prueba_63
+  - first:
+      213: 3076028460678394827
+    second: sprite prueba_64
+  - first:
+      213: -2749999164137038334
+    second: sprite prueba_65
+  - first:
+      213: 6611010800137998761
+    second: sprite prueba_66
+  - first:
+      213: -1878234303103657454
+    second: sprite prueba_67
+  - first:
+      213: -707831268520588461
+    second: sprite prueba_68
+  - first:
+      213: 1224125014723599543
+    second: sprite prueba_69
+  - first:
+      213: -8099250513396888114
+    second: sprite prueba_70
+  - first:
+      213: 313957256447601049
+    second: sprite prueba_71
+  - first:
+      213: 2763743224192509467
+    second: sprite prueba_72
+  - first:
+      213: 1698472334236345371
+    second: sprite prueba_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite prueba_0
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 387
+        width: 351
+        height: 617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b0f77b975cf7a00800000000000000
+      internalID: 756540388981803909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_1
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 981
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af4a69e2b47cdff0800000000000000
+      internalID: -10004787392524381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 393
+        width: 383
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898bf0741742fb720800000000000000
+      internalID: 2864047956973041816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 926
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dece859b6895280800000000000000
+      internalID: -9054057445232677621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 943
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8485d77d19ce160800000000000000
+      internalID: 7056175070889658599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 927
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d45a68a4855bd1c0800000000000000
+      internalID: -4477891376240241450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 947
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8b161c20e3e2940800000000000000
+      internalID: 5273220395252693199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 919
+        width: 163
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077dd352663076b80800000000000000
+      internalID: -8401742842590013584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_8
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 917
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e95ed81ed3db390800000000000000
+      internalID: -7801010940578259315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_9
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 929
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac802e9b9494c440800000000000000
+      internalID: 4955248886108163234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 921
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e609520747a6c20800000000000000
+      internalID: 3200498510215540309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_11
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 935
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c08a25f7b100360800000000000000
+      internalID: 7133732043416407096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 933
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718df924cbf5561e0800000000000000
+      internalID: -2205251180351727593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_13
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 935
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b02293d5db4fc0800000000000000
+      internalID: -3509476379938736609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 959
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311fbb4593ab06c0800000000000000
+      internalID: -4176064367839735501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 847
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d15c3e20b8b3950800000000000000
+      internalID: 6429885737529056629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 479
+        width: 285
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1ec18ffd200d40800000000000000
+      internalID: 5548485316338130072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 855
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2badef3576b904e40800000000000000
+      internalID: 5638677601561008818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_18
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 849
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b984485b6d4fdb0800000000000000
+      internalID: -4758942831126996154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 846
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd317195657244b90800000000000000
+      internalID: -7258633447599041571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_20
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 453
+        width: 401
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f0e63740a510b00800000000000000
+      internalID: 793013984556879663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_21
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 839
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30aaecb121c40c70800000000000000
+      internalID: 8936479911257481276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_22
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 803
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f7d2849529b9960800000000000000
+      internalID: 7609836907533270863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 815
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0677cf50e8782d300800000000000000
+      internalID: 275431571278559072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 779
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d18df307e07588c0800000000000000
+      internalID: -3997664956714745391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 769
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80301afa33aae8a0800000000000000
+      internalID: -6275023657088569203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_26
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 739
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328dd23c6c2413f90800000000000000
+      internalID: -6975720926374668253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 655
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748d78226a04553e0800000000000000
+      internalID: -2065673771791427513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 671
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bda8c47e486a7b0800000000000000
+      internalID: -5213333389678290150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 647
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ef7b23003e80040800000000000000
+      internalID: 4614187408231497369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_30
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 625
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107df516216152660800000000000000
+      internalID: 7360313434205837057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 631
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a706faf15172e50800000000000000
+      internalID: 6784414589487446550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_32
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 625
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09fbda36d40ff4a0800000000000000
+      internalID: -6557517214271145717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 562
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8965dfa6ddb28910800000000000000
+      internalID: 1838240327691233679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 567
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d49f5903af7bd30800000000000000
+      internalID: 4447298243633171863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 575
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e2d2dc5779c4a0800000000000000
+      internalID: -6572590940612795103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 535
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7d38867dc14fa80800000000000000
+      internalID: -8434084490661079088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 513
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5edf9d982e02050800000000000000
+      internalID: 5773863803984668099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_38
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 511
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44ad032e77effb0800000000000000
+      internalID: -4612117155014884117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_39
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 485
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890d79643d8680df0800000000000000
+      internalID: -213805725668355944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_40
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 481
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267966ec35f050c70800000000000000
+      internalID: 8936565888206149474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 367
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d0030b53cd2f4e0800000000000000
+      internalID: -1949253565550686845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 439
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3c7bc9372390c0800000000000000
+      internalID: -4570266067670385779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 451
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc4c4e546206c310800000000000000
+      internalID: 1424828962211384533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_44
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 447
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a73246545fe45e0800000000000000
+      internalID: -1923330312459027965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 23
+        width: 269
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a814d214cbd8b1a0800000000000000
+      internalID: -6793438402712430426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_46
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 451
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0ec8ea35f01b630800000000000000
+      internalID: 3940948001011065043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_47
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 19
+        width: 389
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d6b3353d22f5110800000000000000
+      internalID: 1251757512462134630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 403
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74962cc4fe8fbab70800000000000000
+      internalID: 8911489994351339847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 351
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017f98a4e8b65cb60800000000000000
+      internalID: 7765731391350372112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_50
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 357
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d548f7590d37063c0800000000000000
+      internalID: -4368364298850827171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 325
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd8f9d8f9811790800000000000000
+      internalID: -7561110597476491452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_52
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 373
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3697422ec167f75f0800000000000000
+      internalID: -756756345949750941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_53
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 305
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4abe2ffbc903f80800000000000000
+      internalID: -8128824979175529311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_54
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 311
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09469a7369c96f690800000000000000
+      internalID: -7568689954756664176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 341
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645d1597b8cc58ef0800000000000000
+      internalID: -106454116765412026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 343
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b91e0f7720d41b0800000000000000
+      internalID: -5670873641623905502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 302
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9f147f39612a910800000000000000
+      internalID: 1847063621939624431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_58
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 355
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62473047db34e5da0800000000000000
+      internalID: -5954247176362953690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_59
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 129
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f89088128480900800000000000000
+      internalID: 650849455008485159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b2a965cccdcbb40800000000000000
+      internalID: 5457479618650581854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271b29e2ef7b8de40800000000000000
+      internalID: 5681493232258822514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 163
+        width: 81
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96cfdf9ab83bbf30800000000000000
+      internalID: 4592326619231667870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_63
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 239
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906bee5838821e70800000000000000
+      internalID: 9084473174051741848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_64
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 151
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc33ab5669f30ba20800000000000000
+      internalID: 3076028460678394827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_65
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 119
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e9df0945a06d9d0800000000000000
+      internalID: -2749999164137038334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 86
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a11f7ccb470fbb50800000000000000
+      internalID: 6611010800137998761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_67
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 99
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a9d864adb2fe5e0800000000000000
+      internalID: -1878234303103657454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 66
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b8ae626374d26f0800000000000000
+      internalID: -707831268520588461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_69
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 65
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc15471737fcf010800000000000000
+      internalID: 1224125014723599543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 65
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd041ad19ea99f80800000000000000
+      internalID: -8099250513396888114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999273916766b5400800000000000000
+      internalID: 313957256447601049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_72
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 15
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b162368c1d9ca5620800000000000000
+      internalID: 2763743224192509467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite prueba_73
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 17
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b146cfec69f229710800000000000000
+      internalID: 1698472334236345371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e1b54d1cea5a4143856ecd887ed747e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite prueba_: 2864047956973041816
+      sprite prueba_0: 756540388981803909
+      sprite prueba_1: -10004787392524381
+      sprite prueba_10: 3200498510215540309
+      sprite prueba_11: 7133732043416407096
+      sprite prueba_12: -2205251180351727593
+      sprite prueba_13: -3509476379938736609
+      sprite prueba_14: -4176064367839735501
+      sprite prueba_15: 6429885737529056629
+      sprite prueba_17: 5638677601561008818
+      sprite prueba_18: -4758942831126996154
+      sprite prueba_19: -7258633447599041571
+      sprite prueba_2: 5548485316338130072
+      sprite prueba_20: 793013984556879663
+      sprite prueba_21: 8936479911257481276
+      sprite prueba_22: 7609836907533270863
+      sprite prueba_23: 275431571278559072
+      sprite prueba_24: -3997664956714745391
+      sprite prueba_25: -6275023657088569203
+      sprite prueba_26: -6975720926374668253
+      sprite prueba_27: -2065673771791427513
+      sprite prueba_28: -5213333389678290150
+      sprite prueba_29: 4614187408231497369
+      sprite prueba_3: -9054057445232677621
+      sprite prueba_30: 7360313434205837057
+      sprite prueba_31: 6784414589487446550
+      sprite prueba_32: -6557517214271145717
+      sprite prueba_33: 1838240327691233679
+      sprite prueba_34: 4447298243633171863
+      sprite prueba_35: -6572590940612795103
+      sprite prueba_36: -8434084490661079088
+      sprite prueba_37: 5773863803984668099
+      sprite prueba_38: -4612117155014884117
+      sprite prueba_39: -213805725668355944
+      sprite prueba_4: 7056175070889658599
+      sprite prueba_40: 8936565888206149474
+      sprite prueba_41: -1949253565550686845
+      sprite prueba_42: -4570266067670385779
+      sprite prueba_43: 1424828962211384533
+      sprite prueba_44: -1923330312459027965
+      sprite prueba_45: -6793438402712430426
+      sprite prueba_46: 3940948001011065043
+      sprite prueba_47: 1251757512462134630
+      sprite prueba_48: 8911489994351339847
+      sprite prueba_49: 7765731391350372112
+      sprite prueba_5: -4477891376240241450
+      sprite prueba_50: -4368364298850827171
+      sprite prueba_51: -7561110597476491452
+      sprite prueba_52: -756756345949750941
+      sprite prueba_53: -8128824979175529311
+      sprite prueba_54: -7568689954756664176
+      sprite prueba_55: -106454116765412026
+      sprite prueba_56: -5670873641623905502
+      sprite prueba_57: 1847063621939624431
+      sprite prueba_58: -5954247176362953690
+      sprite prueba_59: 650849455008485159
+      sprite prueba_6: 5273220395252693199
+      sprite prueba_60: 5457479618650581854
+      sprite prueba_61: 5681493232258822514
+      sprite prueba_62: 4592326619231667870
+      sprite prueba_63: 9084473174051741848
+      sprite prueba_64: 3076028460678394827
+      sprite prueba_65: -2749999164137038334
+      sprite prueba_66: 6611010800137998761
+      sprite prueba_67: -1878234303103657454
+      sprite prueba_68: -707831268520588461
+      sprite prueba_69: 1224125014723599543
+      sprite prueba_7: -8401742842590013584
+      sprite prueba_70: -8099250513396888114
+      sprite prueba_71: 313957256447601049
+      sprite prueba_72: 2763743224192509467
+      sprite prueba_73: 1698472334236345371
+      sprite prueba_8: -7801010940578259315
+      sprite prueba_9: 4955248886108163234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
